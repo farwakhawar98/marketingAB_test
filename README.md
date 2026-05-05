@@ -13,6 +13,7 @@ Marketing A/B Testing dataset from Kaggle, simple marketing campaign with experi
 - Calculated conversion rates considering ad exposure
 - Segmented by ad frequency
 - Ran a time analysis, determining best time to show ads
+- Using CTE's and indexing
 ### Python
 - used scipy.stats library
 - Ran a chi-square test to validate the result
